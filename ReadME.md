@@ -7,15 +7,16 @@
 ## Rquirements 
 
 1. Install ollama
-2. After install ollama, open ollama and install llama3.2 model by entering commant 
-'ollama run llama3.2'
-3. You can choose any model from ollama but don't forget to change in app.py file where we comment to change.
-4. Now create python env by command 
-'python -m venv myenv'
-5. activate and install requirement by 
-'pip install -r requirements.txt'
-6. Now run the application by
-'python app.py'
+2. After installing ollama, open ollama and install the llama3.2 model by entering the command:
+   'ollama run llama3.2'
+3. You can choose any model from ollama, but don't forget to change it in the app.py file where we comment to change.
+4. Now create a Python environment by running the command:
+   'python -m venv myenv'
+5. Activate the environment and install the requirements by running:
+   'pip install -r requirements.txt'
+6. Now run the application by executing:
+   'python app.py'
+
 
 
 ## Technology or library used

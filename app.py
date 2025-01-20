@@ -32,6 +32,7 @@ prompt = PromptTemplate.from_template("""
 3. If you don't know the answer, just say that "I don't know" but don't make up an answer on your own.
 4. Keep the answer crisp and limited to 3,4 sentences.
 5. Answer the question related to foodball.
+6. Just answer the question no need to mention the context.
 
 Context: {context}
 
