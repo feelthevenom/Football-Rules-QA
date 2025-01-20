@@ -1,0 +1,10 @@
+ollama
+langchain
+langchain-experimental
+langchain-community
+faiss-cpu
+pdfplumber
+gradio
+sentence-transformers
+langchain_huggingface
+langchain_ollama
