@@ -37,3 +37,8 @@
 
 1. Adding ability to add pdf by user with new knowledge rules.
 2. Error handling for clean and clear.
+
+
+### **Warning 
+
+Make sure the ollama is running in background 
