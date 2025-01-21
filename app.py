@@ -57,6 +57,6 @@ gr.ChatInterface(
     chatbot=gr.Chatbot(height=500),
     textbox=gr.Textbox(placeholder="Ask me question related to football rules and regulations", container=False, scale=7),
     title="Football Chatbot",
-    # examples=["What are different kinds of plant diseases", "What is Stewart's wilt disease"],
+    examples=["What is the offside rule?", "What is the handball rule?"],
     cache_examples=True,
 ).launch(share=True)
